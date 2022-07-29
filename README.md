@@ -1,5 +1,6 @@
 # Projeto Prático DataTwitter-Eleitoral
 
+
 # Etapa 1 - Entendendo o Problema
 ---
 - Análise de sentimentos - DATATwitter
